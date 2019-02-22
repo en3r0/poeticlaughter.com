@@ -1,0 +1,8 @@
+.wpcanvas2-clearfix:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.wpcanvas2-clearfix {display: inline-block;}
+* html .wpcanvas2-clearfix {height: 1%;}
+.wpcanvas2-clearfix {display: block;}
+.wpcanvas2-custom-uploader .attachment-details label.setting, .wpcanvas2-custom-uploader .attachment-display-settings label.setting:nth-child(2), .wpcanvas2-custom-uploader .attachment-display-settings div.setting, .wpcanvas2-custom-uploader .compat-attachment-fields {display: none;}
+.wpcanvas2-custom-uploader-gallery-library .gallery-settings {display: none;}
+body .wpcanvas2-image-upload-wrapper .wpcanvas2-image-upload-input {margin-bottom: 3px;}
+.wpcanvas2-preview-image img {background: #fafafa;border-color: #ccc #eee #eee #ccc;border-style: solid;border-width: 1px;padding: 5px;max-width: 100% !important;max-height: 200px;height: auto;display: block;}
