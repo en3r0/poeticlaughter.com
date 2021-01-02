@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://poeticlaughter.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="January 2, 2021 9:36 pm" -->
+<!-- generated-on="January 2, 2021 10:40 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://poeticlaughter.com/sitemap-misc.xml</loc>
 		<lastmod>2021-01-02T21:34:41+00:00</lastmod>
@@ -132,4 +132,4 @@
 		<loc>https://poeticlaughter.com/sitemap-pt-page-2015-03.xml</loc>
 		<lastmod>2015-05-15T01:06:53+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 9c9a6113236b086260db542f917697d8; Queries for sitemap: 5; Total queries: 16; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 2MB -->
+</sitemapindex><!-- Request ID: f6cb74b3d43a789b54dcf28190337a5e; Queries for sitemap: 5; Total queries: 16; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
